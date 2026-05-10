@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 </p>
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://komarev.com/ghpvc/?username=dinesh93426&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 <br clear="all" />
 
@@ -70,9 +70,9 @@
 
 ---
 
-## ❤️ Support Me
+## ❤️ Support Me 
 <p align="center">
   <a href="https://dineshportofio.vercel.app/">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+    <img src="https://www.pngitem.com/pimgs/m/238-2384334_my-portfolio-cover-design-hd-png-download.png" width="200"/>
   </a>
 </p>

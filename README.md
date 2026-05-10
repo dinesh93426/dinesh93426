@@ -11,8 +11,8 @@
     From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
   </p>
   <p>
-    <img src="https://img.shields.io/badge/🌍_india1e1e2e?style=for-the-badge" />
-    <a href="mailto:tg270786@gmail.com"><img src="https://img.shields.io/badge/📧_[YOUR_EMAIL]-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🌍_india-1e1e2e?style=for-the-badge" />
+    <a href="mailto:dineshsivakumar994@gmail.com"><img src="https://img.shields.io/badge/📧_dineshsivakumar994@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🥷_Vigilante_(SECRET)-1e1e2e?style=for-the-badge" />
   </p>

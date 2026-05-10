@@ -40,23 +40,23 @@
 <tr>
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
- <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,python,c,typescript" />
 <br/><br/>
 </td>
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind,bootstrap" />
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=firebase,mysql,postgresql" />
 <br/><br/>
 </td>
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,postman" />
 </td>
 </tr>
 </table>
@@ -65,14 +65,14 @@
 ## 📊 GitHub Stats
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=[YOUR_GITHUB_USERNAME]" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=dinesh93426" alt="Streak" />
 </div>
 
 ---
 
 ## ❤️ Support Me
 <p align="center">
-  <a href="https://buymeacoffee.com/[YOUR_BUY_ME_COFFEE_ID]">
+  <a href="https://dineshportofio.vercel.app/">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
 </p>

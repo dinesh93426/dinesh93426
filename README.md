@@ -81,6 +81,6 @@
 ## ❤️ Support Me 
 <p align="center">
   <a href="https://dineshportofio.vercel.app/">
-    <img src="https://www.pngitem.com/pimgs/m/238-2384334_my-portfolio-cover-design-hd-png-download.png" width="200"/>
+    <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaqZVR15QZj0tr7d8nEintssBDWEcinK94Vo0Arxz8u5pZFntY" width="200"/>
   </a>
 </p>
